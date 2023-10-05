@@ -1,0 +1,7 @@
+total 21104
+-rw-r--r-- 1 turgu 197121 1182528 Oct  5 14:50 NSYR_ALL.dta
+-rw-r--r-- 1 turgu 197121  111116 Oct  5 14:50 NSYR_varchange.dta
+-rw-r--r-- 1 turgu 197121 8073992 Dec 13  2019 NSYRW1_raw.dta
+-rw-r--r-- 1 turgu 197121 2993402 Nov  1  2019 NSYRW2_raw.dta
+-rw-r--r-- 1 turgu 197121 4064903 Dec 17  2019 NSYRW3_raw.dta
+-rw-r--r-- 1 turgu 197121 5169706 Feb 28  2021 NSYRW4_raw.dta
